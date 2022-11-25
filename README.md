@@ -1,242 +1,501 @@
 # CAPITULO-3---4
-Informe
-
 1. OBJETIVO
 
-Explicar la ley de Ohm
+Identificar un circuito resistivo en paralelo
 
-◆ Calcular la corriente en un circuito
+Aplicar la ley de la corriente de Kirchhoff
 
-◆ Calcular el voltaje en un circuito
+Determinar el efecto total de una fuente de
+corriente en paralelo
 
-◆ Calcular la resistencia en un circuito
-
-Identificar un circuito resistivo en serie
-
-◆ Determinar la corriente a través de un circuito en
-serie
-
-◆ Determinar la resistencia total en serie
-
-◆ Aplicar la ley de Ohm a circuitos en serie
+Describir algunas aplicaciones básicas de circuitos
+en paralelo
 
 2. MARCO TEORICO
 
-![1](https://user-images.githubusercontent.com/116687152/202573955-e0aa50a5-13d8-47ab-b76c-35375974a74d.png)
+3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-![2](https://user-images.githubusercontent.com/116687152/202574010-ed286f22-c39e-4eca-b500-f757171b2ec6.png)
+1. Conecte en serie cada juego de resistores mostrado en la figura 5-67 entre los puntos A y B.
+ 
+3. Determine la resistencia nominal presente entre las puntas 1 y 8 del circuito de la figura 5-68.
 
-![3](https://user-images.githubusercontent.com/116687152/202574075-1fe9ae4d-ba70-4075-81e5-a7b76dfc1aad.png)
+170kΩ
 
-![4](https://user-images.githubusercontent.com/116687152/202574116-f6cc0a18-1aeb-4b32-9e0c-cfb5b614ffbf.png)
+5. En la tarjeta de circuito impreso de doble cara mostrada en la figura 5-69, identifique cada grupo de resistores en serie. Observe que muchas de las interconexiones de la tarjeta van de la cara anterior a la cara posterior.
 
-![5](https://user-images.githubusercontent.com/116687152/202574156-c3b64b7e-84a0-43c0-bd19-b713c699ce78.png)
+ 
 
+R1 , R7 , R8 y R10 están en serie. 
 
-3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+R2 , R4 , R6 y R11 están en serie. 
 
-1. En un circuito compuesto de una fuente de voltaje y un resistor, describa qué le sucede a la corriente cuando
+R3 , R5 , R9 y R12 están en serie.
 
-(a) el voltaje se triplica
+7. La corriente suministrada por la fuente en la figura 5-70 es de 5 mA. ¿Cuánta corriente indica cada miliamperímetro localizado en el circuito?
 
-Respuesta la corriente se triplica 
+5 mA
+ 
+11. Encuentre la resistencia total de los siguientes grupos de resistores en serie:
 
-(b) el voltaje se reduce en 75%
+ 
 
-Respuesta la corriente se reduce en un 75%
+a)1560
 
-(c) la resistencia se duplica
+b)103
 
-Respuesta La corriente se reduce a la mitad
+c)13.7k
 
-(d) la resistencia se reduce en 35%
+a)3.67M
 
-Respuesta La corriente se incrementa un 54%
+13. ¿Cuál es la resistencia total de doce resistores de 5.6 kΩ dispuestos en serie?
+ 
+67.2kΩ
 
-(e) el voltaje se duplica y la resistencia se reduce a la mitad
+15. Si en la figura 5-72 la resistencia total es de 17.4 kΩ, ¿cuál es el valor de R5?
 
-Respuesta La corriente se cuadruplica.
+3.9 kΩ
 
-(f) el voltaje y la resistencia se duplican
+ 
+17. En la figura 5-71, encuentre la resistencia total si los tres circuitos están conectados en serie.
 
-Respuesta La corriente no cambia.
+ 
 
-3. Enuncie la fórmula utilizada para encontrar V cuando los valores de I y R son conocidos 
-V = IR
+17.8MΩ
 
-5. Se conecta una fuente de voltaje variable al circuito de la figura 3-18. Comience con 0 V e incremente el voltaje, en pasos de 10 V, hasta 100 V. Determine la corriente en cada voltaje y trace una gráfica de V contra I. ¿Es la gráfica una línea recta? ¿Qué indica la gráfica?
+19. ¿Cuál es la corriente presente en cada circuito de la figura 5-74?
 
-![image](https://user-images.githubusercontent.com/116687152/201971861-08509597-42c1-4242-8954-99fa9f140724.png)
+ 
 
-7. La figura 3-19 es una gráfica de corriente contra voltaje para tres valores de resistencia. Determine R1, R2 y R3.
+Figura a) 0.626m
 
-![image](https://user-images.githubusercontent.com/116687152/201972216-996ce97d-a346-4fb4-9a16-3ced96bde8e6.png)
+ 
 
-9. Trace la relación corriente-voltaje para un resistor de cinco bandas con código de colores café, verde, gris, café, rojo.
+4,26u
 
-Es un resistor de 1.58k Ω
+21. Se conectan tres resistores de 470 Æ en serie con una fuente de 48 V.
 
-![image](https://user-images.githubusercontent.com/116687152/201972328-35b19c2d-a86c-4b51-be72-232c05d77dad.png)
+(a) ¿Cuál es la corriente en el circuito? 
 
-11. Se mide la corriente en un circuito que opera con una batería de 10 V. El amperímetro lee 50 mA. Más tarde, se observa que la corriente cae a 30 mA. Eliminando la posibilidad de un cambio de resistencia, debe concluirse que el voltaje ha cambiado. ¿Cuánto ha cambiado el voltaje de la batería y cuál es su nuevo valor?
+0.034
 
-Primero sabemos que si los mili amperios se redujeron el voltaje igualmente para calcular cuanto se reduje hacemos una regla de 3.
+(b) ¿Cuál es el voltaje a través de cada resistor? 
 
-![image](https://user-images.githubusercontent.com/116687152/201973166-0c441805-f902-4fa9-9028-8e61e9a5e096.png)
+15.98
 
-Como se redujo un 60% ahora calculamos cuanto es equivale eso en los voltios con la regla de 3.
+(c) ¿Cuál es el valor nominal de potencia de los resistores?
 
-![image](https://user-images.githubusercontent.com/116687152/201973212-d64c785a-aed5-4f3d-b7f0-042bdfd93233.png)
+0.543 W
 
-El voltaje se ha reducido en un 6% por lo tanto el nuevo voltaje es:
+23. ¿Cuál es el valor de cada resistor mostrado en la figura 5-75?
 
-![image](https://user-images.githubusercontent.com/116687152/201973383-43bcd164-2072-4036-b0e2-2420e7ffb347.png)
+ 
 
-13. Trace una gráfica de corriente contra voltaje con valores de voltaje que vayan de 10 a 100 V, en incrementos de 10 V, para cada uno de los siguientes valores de resistencia:
+R1 = 330 Ω, R2 = 220 Ω, R3 = 100 Ω, R4 = 470 Ω
 
-![image](https://user-images.githubusercontent.com/116687152/201973515-e77ab645-fdfe-45f7-adc9-cc87aa44eed0.png)
+25. En el circuito de la figura 5-77, el medidor lee 7.84 mA cuando el interruptor está en la posición 
 
-![image](https://user-images.githubusercontent.com/116687152/201973771-fa556537-7e57-4e5a-be0d-bd44ccdda7d3.png)
+A. (a) ¿Cuál es la resistencia de R4? 
 
-![image](https://user-images.githubusercontent.com/116687152/201973814-231bd7f9-f499-4eee-990b-778c059cfe93.png)
+331 Ω
 
-15. Determine la corriente en cada caso:
+(b) ¿Cuál deberá ser la lectura del medidor en las posiciones B, C y D del interruptor? 
 
-![image](https://user-images.githubusercontent.com/116687152/201975539-b16966b0-66e9-427d-bf05-41d8596cda83.png)
+(b) 
 
-16. Determine la corriente en cada caso:
+Posición B: 9.15 mA 
 
-![image](https://user-images.githubusercontent.com/116687152/201975753-e7e05e04-95b0-4ad5-91e5-01e270e7928e.png)
+Posición C: 14.3 mA 
 
-17. Se conecta un resistor de 10 V a través de una batería de 12 V. ¿Cuál es la corriente a través del resistor?
+Posición D: 36.3 mA
 
-![image](https://user-images.githubusercontent.com/116687152/201975898-dcf59194-2c4b-46cb-8b50-3d6507b273eb.png)
+(c) ¿Se fundirá un fusible de 1 ⁄4 A en cualquier posición del interruptor?
 
-19. Se conecta un resistor de cuatro bandas a través de las terminales de una fuente de 25 V. Determine la corriente del resistor si el código de colores es amarillo, violeta, naranja, plata.
+(c) No
 
-![image](https://user-images.githubusercontent.com/116687152/201976059-f9350705-c680-47b3-957c-8c788749c6c7.png)
+27. Ayuda en serie es un término utilizado en ocasiones para describir fuentes de voltaje de la misma polaridad en serie. Si una fuente de 5 V y otra de 9 V están conectadas de esta manera, ¿cuál es el voltaje total?
 
-21. Si el voltaje del problema 20 se duplica, ¿se fundirá un fusible de 0.5 A? Explique su respuesta
-Si ya la corriente es de 0.642 y es mas grande que el fusible de 0.5 por eso se funde.
+14 V
 
-![image](https://user-images.githubusercontent.com/116687152/201976207-89495020-4893-45b2-af75-44bf1d99b0c8.png)
+29. Determine el voltaje de fuente total en cada circuito de la figura 5-79.
 
-23. Calcule el voltaje para cada valor de I y R:
+ 
 
-![image](https://user-images.githubusercontent.com/116687152/201976348-16ffa156-4baa-4dfb-9408-b62e64a3e8ea.png)
+A = 23V
 
-25. Se leen tres amperes de corriente a través de un resistor de 27 V conectado a una fuente de voltaje. ¿Cuánto voltaje produce la fuente?
+B = 35V
 
-![image](https://user-images.githubusercontent.com/116687152/201976481-13424af3-175d-420a-ae5d-709c530a2805.png)
+C = 0V
+31. Cinco resistores están dispuestos en serie con una fuente de 20 V. Las caídas de voltaje a través de cuatro de los resistores son: 1.5 V, 5.5 V, 3 V, y 6 V. ¿Cuál es la caída de voltaje en el quinto resistor?
 
-29. Calcule la resistencia de un reóstato para cada juego de valores de V e I:
+4V
 
-![image](https://user-images.githubusercontent.com/116687152/201976728-b0852e30-b79c-4e27-a8f6-8c8ef40b8d9c.png)
+33. En el circuito de la figura 5-81, determine la resistencia de R4. 
 
-31. En el circuito de la figura 3-23(a), el filamento de una lámpara tiene cierta cantidad de resistencia, la cual está representada por una resistencia equivalente en la figura 3-23(b). Si la lámpara opera con 120 V y 0.8 A de corriente, ¿cuál es la resistencia de su filamento cuando está encendida?
+ 
 
-![image](https://user-images.githubusercontent.com/116687152/201979675-84cb2391-f844-49b2-a316-ad09a41d4c84.png)
+22Ω
 
-33. Al variar el reóstato (resistor variable) en el circuito de la figura 3-24, puede cambiar la cantidad de corriente. El ajuste del reóstato es tal que la corriente es de 750 mA. ¿Cuál es el valor de resistencia de este ajuste? Para ajustar la corriente a 1 A, ¿a qué valor de resistencia debe ajustar el reóstato? ¿Cuál es el problema con el circuito?
+35. Determine el voltaje a través de R5 para cada una de las posiciones del interruptor de la figura 5-83. La corriente en cada posición es como sigue: A, 3.35 mA; B, 3.73 mA; C, 4.50 mA; D, 6.00 mA.
 
-![image](https://user-images.githubusercontent.com/116687152/201976965-1d4d2ce7-a511-4414-921d-49368a2a5012.png)
+ 
 
-37. Suponga que tiene una serie de 32 luces y uno de los focos se fundió. Con el método de división a la mitad, y comenzando por la mitad izquierda del circuito, ¿cuántas lecturas de resistencia tomará localizar el foco fundido si es el décimo séptimo de izquierda a derecha?
+Voltaje en A
 
-Nos tomaría 5 mediciones
+V_R1=3.35m*1.8k=6.03
 
-EJERCICIOS CAPITULO 4
+V_R2=3.35m*1.0k=3.35
 
-1. Demuestre que la unidad de potencia (el watt) equivale a un volt por un ampere.
+V_R3=3.35m*820=2.74
 
-volt = joule/coulomb 
+V_R4=3.35m*820k=1.876
 
-amp = coulomb/segundo 
+18v-6.03-3.35-2.74-1.876-R_5=0
 
-V*I = joule/coulomb * coulomb/segundo = joule/seg = watt
+R_5=4.0V
 
-3. ¿Cuál es la potencia cuando se consume energía a razón de 350 J/s?
+Voltaje en B
 
-![image](https://user-images.githubusercontent.com/116687152/201977260-432dd420-e734-41d9-b4f4-53cecb320b76.png)
+V_R1=3.73m*1.8k=6.72
 
-5. ¿A cuántos watts equivalen 1000 J en 50 ms?
+V_R2=3.73m*1.0k=3.37
 
-![image](https://user-images.githubusercontent.com/116687152/201977319-2e176af8-c1b0-476f-b3f4-38d1714206cf.png)
+V_R3=3.73m*820=3.0586
 
-7. Convierta las siguientes cantidades en megawatts:
+18v-6.72-3.37-3.0586-R_5=0
 
-![image](https://user-images.githubusercontent.com/116687152/201977525-dfda73a3-be18-4585-8264-6e49294c50b1.png)
+R_5=4.5V
 
-9. Convierta las siguientes cantidades en microwatts:
+Voltaje en C
 
-![image](https://user-images.githubusercontent.com/116687152/201977680-2a22f027-17fe-4033-bcfb-d4f6fd62863c.png)
+V_R1=4.50m*1.8k=8.1
 
-11. Un dispositivo electrónico en particular utiliza 100 mW de potencia. Si funciona durante 24 h, ¿cuántos joules de energía consume?
+V_R2=4.50m*1.0k=4.5
 
-W = P*t = (0.1kW) * (24h) = 2.4kW 
+18v-8.1-4.5-R_5=0
 
-13. Al final de un periodo de 31 días, su recibo de electricidad muestra que utilizó 1500 kWh. ¿Cuál fue su consumo de potencia diario promedio?
+R_5=5.4V
 
-En este caso tenemos que hacer un despeje de la formula
+Voltaje en D
 
-![image](https://user-images.githubusercontent.com/116687152/201977974-cd80bfee-88b3-48cb-921c-09b376fce6f3.png)
+V_R1=6.00m*1.8k=10.8
 
-15. Convierta 6700 watts-segundos en kWh.
+18v-10.8-R_5=0
 
-![image](https://user-images.githubusercontent.com/116687152/201978065-b9569080-d931-4515-9ff6-b2d337b25da7.png)
+R_5=7.2
 
-17. Si una fuente de 75 V está suministrando 2 A a una carga, ¿cuál es el valor de resistencia de la carga?
+37. La resistencia total de un circuito es de 560 Ω. ¿Qué porcentaje del voltaje total aparece a través de un resistor de 27 Ω que forma parte de la resistencia total en serie?
 
-![image](https://user-images.githubusercontent.com/116687152/201978286-4c99811c-c330-4e57-8859-53b0fb6326ea.png)
+Realizamos una regla de 3 y el resultado es 4.82%
 
-19. Un calentador eléctrico funciona con 120 V y absorbe 3 A de corriente. ¿Cuánta potencia utiliza?
+39. Determine el voltaje con respecto a tierra para las salidas A, B y C en la figura 5-85(a)
+ 
 
-P = V*I = (120V)(3A) = 360 W
+V_A=(18.9k/18.9k)*15=15V
 
-21. Calcule la potencia disipada por un resistor de 10 kΩ que transporta 100 mA.
+V_B=(13.3k/18.9k)*15=15.6V
 
-![image](https://user-images.githubusercontent.com/116687152/201978567-ac6dd01d-d680-4e1f-85a7-dc136e2a0ca2.png)
+V_C=(3.3k/18.9k)*15=2.62V
 
-25. Una fuente de 12 V se conecta entre los extremos de un resistor de 10 Ω 
+41. ¿Cuál es el voltaje a través de cada resistor mostrado en la figura 5-86? R es el resistor de valor más bajo, y todos los demás resistores son múltiplos de dicho valor como se indica.
+ 
 
-(a) ¿Cuánta energía se utiliza en dos minutos? 
 
-0.480 Wh
 
-(b) Si después de un minuto se desconecta el resistor, ¿es la potencia durante este primer minuto mayor, menor o igual a la potencia que hay durante un intervalo de dos minutos?
+Como son múltiplos empezamos desde 2 hasta llegar al 10
 
-Igual
+V_R=(2/30)*90=6V
 
-27. Cierto tipo de resistor viene en las siguientes clasificaciones: 3 W, 5 W, 8 W, 12 W, 20 W. Una aplicación en particular requiere de un resistor que pueda manejar aproximadamente 8 W. ¿Qué clasificación utilizaría usted para tener un margen de seguridad mínimo del 20% sobre el valor nominal? ¿Por qué?
+V_2R=(4/30)*90=12V
 
-Por lo menos 12 W, para permitir un margen de seguridad del 20%
+V_3R=(6/30)*90=18V
 
-29. Una carga de 50 Ω utiliza 1 W de potencia. ¿Cuál es el voltaje de salida de la fuente de potencia?
+V_4R=(8/30)*90=24V
 
-![image](https://user-images.githubusercontent.com/116687152/201978812-bd1a6527-73d3-423f-ab1d-b984780f02e0.png)
+V_5R=(10/30)*90=30V
 
-33. ¿Cuánta corriente promedio puede ser absorbida de una batería de 80 Ah durante 10 h?
+43. Si hay 10 V a través de R1 en la figura 5-88, ¿cuál es el voltaje en cada uno de los demás resistores?
+ 
+Primero sacamos la corriente que es la misma para todo el circuito 
 
-![image](https://user-images.githubusercontent.com/116687152/201978934-fb1d4d92-70f2-4390-92fe-cf1ce13a4a8a.png)
+I=10/5.6k=1.79mA
 
-35. Si la potencia de entrada es de 500 mW y la de salida de 400 mW, ¿cuánta potencia se pierde? ¿Cuál es la eficiencia de esta fuente de potencia?
+V_R1=10V
 
-![image](https://user-images.githubusercontent.com/116687152/201979055-758a6e96-1750-4ecd-a6db-07ba0dd577fc.png)
+V_R2=1.79m*1.0k=1.79V
 
-37. Cierta fuente de potencia suministra 2 W de forma continua a una carga. Está operando al 60% de eficiencia. En un periodo de 24 h, ¿cuántos kilowatts-hora utiliza la fuente de potencia?
+V_R3=1.79m*560=1.00V
 
-![image](https://user-images.githubusercontent.com/116687152/201979150-c5e4fdab-993a-4d5a-a2c4-90d07752dd1c.png)
+V_R4=1.79m*10k=17.9V
 
-4.VIDEO
+47. ¿Cuál es la potencia total en el circuito de la figura 5-88? Use los resultados del problema 43.
 
-https://youtu.be/dtPfvBV9Rkk
+P_T=〖(10+1.79+1.00+17.9)〗^2/((5.6k+1.0k+560+10k))=54.9mW
 
-5.CONCLUSIONES
+49. Encuentre RT en la figura 5-89.
+ 
 
-Hemos logrado aprender como medir voltajes corriente resistencia y potencia.
+Primero sacamos la corriente para todo el circuito.
 
-Hemos logrado aprender sobre como se debe localizar fallas de circuitos en serie.
+P_R1=12^2/5.6M=25.7u
 
-6.BIBLIOGRAFÍA
+
+I=√(25.7/5.6M)=2.14u
+
+Con la corriente sacamos ahora el voltaje de R3
+
+V_3=21,5u/2.14u=10.05V
+
+Ahora sacamos la potencia en R2
+
+P_2=4.8V*2.14u=10.03u
+
+Ahora tenemos que el voltaje total es:
+
+V_T=26.85
+
+La potencia total es:
+
+P_T=62.57
+
+Entonces la resistencia total es:
+
+R_T=〖26.85〗^2/57.23u=12.5M
+
+51. En la figura 5-90, determine el voltaje en cada punto con respecto a tierra
+ 
+
+Sacamos los voltajes que serian 
+
+V=42,45                                             V= 42,45                                   V= 7.58              V=7.58
+
+En A = 100V
+
+B = 57.5
+
+C = 15.1
+
+D = 7.52.
+
+53. En la figura 5-91, determine el voltaje en cada punto con respecto a tierra.
+ 
+Sacamos la corriente
+
+I=24/1.816u=13.22u
+
+V_1=0.74032
+
+V_2=0.74032
+
+V_3=1.322
+
+V_4=13.22
+
+V_5=1.322
+
+Entonces los voltajes son:
+
+A = 15.26V
+
+B = 13.51V
+
+C = 12.19V
+
+D = 9.30V
+
+1. Muestre cómo conectar los resistores de la figura 6-65(a) en paralelo entre las terminales de una batería.
+ 
+
+3. Identifique los grupos de resistores que están en paralelo en la tarjeta de circuito impreso de doble cara mostrada en la figura 6-66.
+
+R1 , R2 , R5 , R9 , R10, y R12 están en paralelo. 
+
+R4 , R6 , R7 , y R8 están en paralelo. 
+
+R3 y R11 están en paralelo.
+
+5. El voltaje de fuente en la figura 6-67 es de 100 V. ¿Cuánto voltaje lee cada uno de los medidores?
+
+100 V
+
+7. ¿Cuál es el voltaje entre los extremos de cada resistor incluido en la figura 6-68 para cada posición del interruptor?
+
+ 
+
+Posición A:
+
+V1 = 15 V, V2 = 0 V, V3 = 0 V, V4 = 15 V
+
+Posición B:
+
+V1 = 15 V, V2 = 0 V, V3 = 15 V, V4 = 0 V
+
+Posición C:
+
+V1 = 15 V, V2 = 15 V, V3 = 0 V, V4 = 0 V
+
+9. Se leen las siguientes corrientes en la misma dirección en un circuito de tres ramas en paralelo: 250 mA, 300 mA y 800 mA. ¿Cuál es el valor de la corriente que llega a la unión de las tres ramas?
+
+1.35 A
+
+11. En el circuito de la figura 6-69, determine la resistencia en R2 , R3 y R4 .
+
+R2 = 22
+
+R3 = 100
+
+R4 = 33
+
+13. La resistencia total de un circuito en paralelo es de 25 Ω. ¿Cuál es la corriente a través de un resistor de 220 Ω que forma parte de este circuito si la corriente total es de 100 mA?
+
+11.4 mA
+
+15. Encuentre la resistencia total de cada uno de los siguientes grupos de resistores en paralelo:
+
+ 
+
+Respuesta:
+
+ 
+
+17. ¿Cuál es la resistencia total de doce resistores de 6.8 Ω dispuestos en paralelo?
+
+567 Ω
+
+19. Encuentre la resistencia total de todo el circuito en paralelo descrito en el problema 18.
+
+24.6
+
+21. ¿Cuál es la resistencia total entre el punto A y tierra en la figura 6-72 en las siguientes condiciones?
+
+(a) SW1 y SW2 abiertos 
+
+(b) SW1 cerrado, SW2 abierto 
+
+(c) SW1 abierto, SW2 cerrado 
+
+(d) SW1 y SW2 cerrados
+
+a) 510 k
+
+b) 245 k
+
+c) 510 k
+
+d) 193 k
+
+23. Tres resistores de 33 Ω están conectados en paralelo con una fuente de 110 V. ¿Cuál es la corriente suministrada por la fuente? 
+
+10 A
+
+25. Muchos tipos de luces decorativas están conectados en paralelo. Si se conecta un juego de luces a una fuente de 110 V y si la resistencia en caliente del filamento de cada foco es de 2.2 Ω, ¿cuál es la corriente a través de cada foco? ¿Por qué es mejor tener estos focos en paralelo y no en serie?
+
+50 mA;
+
+Es mejor tenerlo en paralelo ya que así si un foco se funde solo será ese no afectando a los demás.
+
+27. ¿A qué valor mínimo se puede ajustar el reóstato de 100 Ω mostrado en la figura 6-75 antes de que el fusible de 0.5 A se funda?
+
+53.7Ω
+
+29. Encuentre los valores de las cantidades no especificadas en la figura 6-77.
+
+I2= 167 Ma
+
+I3= 83.3 mA
+
+IT= 300 mA
+
+R1= 2 kΩ
+
+R2=600Ω
+
+ 
+
+31. Determine la corriente a través del resistor para cada una de las posiciones de interruptor calibradas en la figura 6-79.
+
+ 
+
+33. Determine la corriente en cada uno de los divisores de corriente mostrados en la figura 6-81.
+ 
+
+I1 = 6.88 mA
+
+I2 = 3.12 mA
+
+I2 = 2.39 mA
+
+I1 = 5.25 mA
+
+I3 = 1.59 mA,
+
+I4 = 772 uA
+
+35. Determine todos los valores de resistor en la figura 6-83. RT = 773 Ω
+
+ 
+
+R1 = 3.3 k
+
+R2 = 1.8 k
+
+R3 = 5.6 k
+
+R4 = 3.9 k
+
+39. Determine la potencia total en cada uno de los circuitos de la figura 6-81.
+
+ 
+
+a) 68.8 mW
+
+b) 52.5 mW
+
+41. Encuentre los valores de las cantidades no especificadas en la figura 6-84
+
+ 
+
+P2 = 75 mA
+
+P1 = 1.25 W
+
+I1=125mA 
+
+VS = 10 V
+
+R1 = 80
+
+R2 = 133
+
+43. Si en el problema 40 se funde uno de los focos, ¿cuánta corriente circulará a través de cada foco restante? ¿Cuál será la corriente total?
+
+682 mA, 3.41 A
+
+45. ¿Qué está mal con el circuito de la figura 6-86?
+
+ 
+
+El resistor de 8.2 Ω está abierto.
+
+
+49. Para el circuito mostrado en la figura 6-88, determine la resistencia entre las siguientes puntas si existe un corto entre las puntas 3 y 4: 
+
+(a) 1 y 2 
+
+(b) 2 y 3 
+
+(c) 2 y 4 
+
+(d) 1 y 4
+
+4. VIDEO
+
+5. CONCLUSIONES
+
+Hemos logrado aprender el como describir algunas aplicaciones de circuitos en paralelo.
+
+Hemos podido aprender el identificar un circuito resisivo en paralelo.
+
+6. BIBLIOGRAFÍA
 
 FLOYD, T. L. (2008). 5 PRINCIPIOS DE CIRCUITOS ELECTRICOS (8a. ed.). MEXICO: PEARSON EDUCACION.
+
