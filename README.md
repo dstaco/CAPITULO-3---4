@@ -1,4 +1,4 @@
-# CAPITULO-3---4
+# CAPITULO-5---6
 1. OBJETIVO
 
 Identificar un circuito resistivo en paralelo
@@ -12,6 +12,27 @@ Describir algunas aplicaciones básicas de circuitos
 en paralelo
 
 2. MARCO TEORICO
+
+![1](https://user-images.githubusercontent.com/116687152/204029780-c8b40b7a-8be6-4dd5-b547-5e0dc4af0c87.png)
+
+![2](https://user-images.githubusercontent.com/116687152/204029804-14b60080-077e-4196-aac5-3e0e2b7c0e2f.png)
+
+![3](https://user-images.githubusercontent.com/116687152/204029827-89b3bb68-335d-4527-87c9-6b7e5c1b5b4d.png)
+
+![4](https://user-images.githubusercontent.com/116687152/204029933-a4c321b2-36c4-4613-9eab-6819772eec4f.png)
+
+![5](https://user-images.githubusercontent.com/116687152/204030157-f64f4a49-631f-46d8-b399-a604db82340c.png)
+
+![6](https://user-images.githubusercontent.com/116687152/204030192-0fc42e02-2d78-435f-b442-29823975a2c1.png)
+
+![7](https://user-images.githubusercontent.com/116687152/204030220-7cf234cc-8388-4e80-8300-f5cbd2bca6e1.png)
+
+![8](https://user-images.githubusercontent.com/116687152/204030248-fba6e723-36ac-4fce-bb75-fc8d43b98d41.png)
+
+![9](https://user-images.githubusercontent.com/116687152/204030285-aa5ec00a-de69-4e39-ad7c-644b117cb851.png)
+
+![10](https://user-images.githubusercontent.com/116687152/204030320-fc9571cf-8886-4a1b-83ce-ed6cdeed83d9.png)
+
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
