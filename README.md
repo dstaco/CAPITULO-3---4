@@ -510,6 +510,8 @@ El resistor de 8.2 Ω está abierto.
 
 4. VIDEO
 
+https://youtu.be/leFTvDTczkc
+
 5. CONCLUSIONES
 
 Hemos logrado aprender el como describir algunas aplicaciones de circuitos en paralelo.
